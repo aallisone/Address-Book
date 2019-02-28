@@ -1,8 +1,7 @@
 {
   "name": "api-lesson",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "indexes.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +12,15 @@
     "express": "^4.16.4",
     "monk": "^6.0.6",
     "nedb": "^1.8.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aallisone/Address-Book.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aallisone/Address-Book/issues"
+  },
+  "homepage": "https://github.com/aallisone/Address-Book#readme",
+  "description": ""
 }
